@@ -1,4 +1,4 @@
-# 
+# ultimate ClickUp for Windows Plugin | gantt-charts + recurring-tasks offers the most advanced ClickUp for Windows plugin, with gantt-charts and recurring-tasks. Ideal for Windows
 
 
 
